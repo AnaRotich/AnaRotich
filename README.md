@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnaRotich
-- 👀 I’m interested in all things cloud.
-- 🌱 I’m currently learning iOS development and AWS Solution Architect.
-- 💞️ I’m looking to collaborate on guilding iOS appications, cloud solutions and security.
+- 👀 I’m interested in all things security.
+- 🌱 I’m currently learning cloud security.
+- 💞️ I’m looking to collaborate on improving cloud solutions and security.
 - 📫 How to reach me astachepro@gmail.com
 
 <!---
